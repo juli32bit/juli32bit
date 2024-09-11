@@ -10,7 +10,7 @@
 - 📄 Know my CV [https://drive.google.com/file/d/12r-JN0BD-0mxkqdXZ0GZQ0bHe3ggKG5W/view?usp=sharing](https://drive.google.com/file/d/12r-JN0BD-0mxkqdXZ0GZQ0bHe3ggKG5W/view?usp=sharing)
 
 - ⚡ Fun fact **I love challenges.**
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xzamdiaDdqMXBvb3l3cnE4YW5peTFhOHY1aDdhbGVrZXJzcmZzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.webp">
+<img src="https://drive.google.com/file/d/1rtE_GejmFDTUNgmGJpcJIVb42n1NaCpo/view?usp=sharing">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin/in/juli32bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/in/juli32bit" height="30" width="40" /></a>

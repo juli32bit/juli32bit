@@ -10,7 +10,7 @@
 - 📄 Know my CV [https://drive.google.com/file/d/12r-JN0BD-0mxkqdXZ0GZQ0bHe3ggKG5W/view?usp=sharing](https://drive.google.com/file/d/12r-JN0BD-0mxkqdXZ0GZQ0bHe3ggKG5W/view?usp=sharing)
 
 - ⚡ Fun fact **I love challenges.**
-<img src="https://giphy.com/embed/xFkgeu7dhfgqqxJqmj" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/english4it-acid-english-for-it-eng4it-xFkgeu7dhfgqqxJqmj">via GIPHY</a></p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xzamdiaDdqMXBvb3l3cnE4YW5peTFhOHY1aDdhbGVrZXJzcmZzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.webp">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin/in/juli32bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/in/juli32bit" height="30" width="40" /></a>

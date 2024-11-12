@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julia Reis! 🤓</h1>
-<h3 align="center">A developer from Brazil =)</h3>
+<h3 align="center">A developer from Brazil </h3>
 
 - 🌱 I’m currently learning **CyberSecurity**
 
@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/linkedin/in/juli32bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/in/juli32bit" height="30" width="40" /></a>
 <a href="https://instagram.com/juli64bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juli64bit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/juli64bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juli32bit" height="30" width="40" /></a>
-  <img align="right" alt="Coding" width="400" src=("https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif")>
+
 
 </p>
 

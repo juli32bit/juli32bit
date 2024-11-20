@@ -1,5 +1,4 @@
 
-<h1 align="center">Hi, I'm Julia Reis</h1>  
 <img src="https://c.tenor.com/yQ6QlIyJf-EAAAAd/tenor.gif" height=400 width=300 align="right" alt="watch out!"></img>
 <pre align="left">
     /Me, Julia, a developer from Brazil
@@ -17,7 +16,7 @@
          |-- 📫 How to reach me: juliamesquita267@gmail.com
          |--⚡I love challenges 
 </pre>
- <align="center">🧑‍💻 My latest project: <a href="https://juli32bit.vercel.app/"> Click here</a> 
+🧑‍💻 My latest project: <a href="https://juli32bit.vercel.app/" target="blank"> Click here</a> 
 📄 My CV: <a href="https://drive.google.com/file/d/1bruJvzrmHsEcmXq2ekFPuoj9qFfaO-nO/view?usp=sharing" target="_blank">Click here</a></li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

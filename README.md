@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi, I'm Julia Reis</h1>
-<h3 align="center">A developer from <br>Brazil</br> </h3>
+<img src="https://c.tenor.com/tKUzbi783KwAAAAd/tenor.gif" align="right">  </img>
 <pre align="left">
-    /Me, Julia
+    /Me, Julia, a developer from Brazil
 |-- I'm only working with freelance by now
 |-- I like how computers work
 |-- I'm learning Cybersecurity 
@@ -17,8 +17,8 @@
          |-- 📫 How to reach me: juliamesquita267@gmail.com
          |--⚡I love challenges 
 </pre>
-<li align="left">🧑‍💻 My latest project: <a href="https://juli32bit.vercel.app/"> Click here</a></li>
-<li align="left"> 📄 My CV: <a href="https://drive.google.com/file/d/1bruJvzrmHsEcmXq2ekFPuoj9qFfaO-nO/view?usp=sharing" target="_blank">Click here</a></li>
+ <align="center">🧑‍💻 My latest project: <a href="https://juli32bit.vercel.app/"> Click here</a> 
+📄 My CV: <a href="https://drive.google.com/file/d/1bruJvzrmHsEcmXq2ekFPuoj9qFfaO-nO/view?usp=sharing" target="_blank">Click here</a></li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juli32bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/in/juli32bit" height="30" width="40" /></a>

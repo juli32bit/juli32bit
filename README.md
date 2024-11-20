@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Julia Reis</h1>  
-<img src=""></img>
+<img src="https://c.tenor.com/yQ6QlIyJf-EAAAAd/tenor.gif" height=400 width=300 align="right" alt="watch out!"></img>
 <pre align="left">
     /Me, Julia, a developer from Brazil
 |-- I'm only working with freelance by now

@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Julia Reis! 🤓</h1>
+    <h1 align="center">Hi, I'm Julia Reis</h1>
 <h3 align="center">A developer from Brazil </h3>
 
-- 🌱 I’m currently learning **CyberSecurity**
 
-- 💬 Ask me about **Hardware (I love it)**
+<li> 🌱 I’m currently learning **CyberSecurity**</li>
 
-- 📫 How to reach me **julinhagameplays2804@gmail.com**
+<li> 💬 Ask me about **Hardware (I love it)**</li>
 
-- 📄 Know my CV [https://drive.google.com/file/d/12r-JN0BD-0mxkqdXZ0GZQ0bHe3ggKG5W/view?usp=sharing](https://drive.google.com/file/d/12r-JN0BD-0mxkqdXZ0GZQ0bHe3ggKG5W/view?usp=sharing)
+<li> 📫 How to reach me **julinhagameplays2804@gmail.com**</li>
+<li>My latest project: <a href="https://juli32bit.vercel.app/"> Click here</a></li>
+<li> 📄 Know my CV: <a href="https://drive.google.com/file/d/1bruJvzrmHsEcmXq2ekFPuoj9qFfaO-nO/view?usp=sharing" target="_blank">Click here</a></li>
 
-- ⚡ Fun fact **I love challenges.**
-<img src="https://drive.google.com/file/d/1rtE_GejmFDTUNgmGJpcJIVb42n1NaCpo/view?usp=sharing">
+<li> ⚡ Fun fact **I love challenges.**</li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin/in/juli32bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/in/juli32bit" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juli32bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/in/juli32bit" height="30" width="40" /></a>
 <a href="https://instagram.com/juli64bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juli64bit" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/juli64bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juli32bit" height="30" width="40" /></a>
 

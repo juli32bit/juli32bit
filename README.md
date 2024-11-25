@@ -17,8 +17,8 @@
          |--⚡I love challenges 
 </pre>
 🧑‍💻 My latest project: <a href="https://juli32bit.vercel.app/" target="blank"> Click here</a> 
-📄 My CV in English: <a href="https://drive.google.com/file/d/11ZI7eF4gii20utV12x23KxzfAEmQ9V_4/view?usp=sharing" target="_blank">Click here</a>
-📄 Currículo em PT-BR: <a href="https://drive.google.com/file/d/1_CRIRJ6RaGgK4RWP4c0TZj9JfOQci9iH/view?usp=sharing">Clique aqui</a></li>
+📄 My CV in English: <a href="https://drive.google.com/file/d/1LlZb6M3NPf8_9RDburWFnWe8DptqIj_K/view?usp=sharing" target="_blank">Click here</a>
+📄 Currículo em PT-BR: <a href="https://drive.google.com/file/d/1Q5TD9QvjtH4AWT4TC7B8ADAlhGNfVOUu/view?usp=sharing" target ="_blank">Clique aqui</a></li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juli32bit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/in/juli32bit" height="30" width="40" /></a>

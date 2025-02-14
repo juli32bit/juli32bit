@@ -14,7 +14,7 @@
          |-- 📫 How to reach me: juliamesquita267@gmail.com
          |--⚡I love challenges 
 </pre>
-🧑‍💻 My latest project: <a href="https://juli32bit.vercel.app/" target="blank"> Click here</a> 
+🧑‍💻 My latest project: <a href="https://juli32bit.netlify.app/" target="blank"> Click here</a> 
 📄 My CV in English: <a href="https://drive.google.com/file/d/1LlZb6M3NPf8_9RDburWFnWe8DptqIj_K/view?usp=sharing" target="_blank">Click here</a>
 📄 Currículo em PT-BR: <a href="https://drive.google.com/file/d/1Q5TD9QvjtH4AWT4TC7B8ADAlhGNfVOUu/view?usp=sharing" target ="_blank">Clique aqui</a></li>
 <h3 align="left">Connect with me:</h3>

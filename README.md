@@ -5,7 +5,7 @@
 |-- I'm learning Cybersecurity 
 |-- I like learning new things and doing fun things with it 
       /What am I aiming today?
-    |-- I'm looking for an internship in Software development
+    |-- I am an internship of Software Development, learning to work with Laravel, PhP and SQL
     |-- Good reads
     |-- Projects with friends
     |-- Studying with maximimizing output mindset 

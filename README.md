@@ -13,7 +13,7 @@
     <br>
     <br>
     backend tools:<br>
-    > nodejs, laravel, php, mysql, apache
+    > nodejs, laravel, php, mysql, apache.
     <br>
     <br>
     ides and tools:<br>

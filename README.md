@@ -4,6 +4,7 @@
   <samp>
     about me:<br>
     - <a href="https://juli32bit.netlify.app/" target="_blank">julia porto</a>, she/her, brazilian, pt-br + english + spanish<br>
+    - currently a Software Engineer intern at Conselho Federal de Administração 
     - system analysis and development student<br>
     - aspirant full stack developer and devops enthusiast<br>
     - deeply interested in devops and sysadmin infrastructure<br>

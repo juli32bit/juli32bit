@@ -7,7 +7,7 @@
     - system analysis and development student<br>
     - aspirant full stack developer and devops enthusiast<br>
     - deeply interested in devops and sysadmin infrastructure<br>
-    - currently a *Software Engineer intern at Conselho Federal de Administração *<br>
+    - currently a <strong>Software Engineer intern at Conselho Federal de Administração</strong><br>
     <br>
     langs:<br>
     > php, python, javascript, java and sql.

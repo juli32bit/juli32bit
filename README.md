@@ -1,36 +1,29 @@
-<p float="left">
-  <img src="https://github.com/gabrafo/gabrafo/blob/main/bat.jpeg" width="450" height="630" align="left" style="margin-right: 20px;">
+#  Welcome, I am Julia 🚀
 
-  <samp>
-    about me:<br>
-    - <a href="https://juli32bit.netlify.app/" target="_blank">julia porto</a>, she/her, brazilian, pt-br + english + spanish<br>
-    - system analysis and development student<br>
-    - aspirant full stack developer and devops enthusiast<br>
-    - deeply interested in devops and sysadmin infrastructure<br>
-    - currently a <strong>Software Engineer intern at Conselho Federal de Administração</strong><br>
-    <br>
-    langs:<br>
-    > php, python, javascript, java and sql.
-    <br>
-    <br>
-    backend tools:<br>
-    > nodejs, laravel, php, mysql, apache.
-    <br>
-    <br>
-    ides and tools:<br>
-    > linux Ubuntu, windows, phpstorm, github, git.
-    <br>
-    <br>
-    front-end tools:<br>
-    > html/css, tailwind.
-    <br>
-    
-  </samp>
-  <br>
-  <samp>
-    tools:<br>
-    - <a href="https://obsidian.md/" target="_blank">notion</a> and <a href="https://notion.so/"
-    - <a href="https://learn.microsoft.com/en-us/windows/wsl/about" target="_blank">wsl2</a> - linux integration in windows<br>
-    <br>
-  </samp>
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">I'm becoming a FullStack Developer and currently studying Systems Analysis and Development and I'm a software engineer intern at <strong>Conselho Federal de Administração, engaging with <strong>PHP, Laravel Projects evolving back-end and front-end development.</strong></p>
+
+
+### 🛠️ Languages and Technologies
+  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,bootstrap,php,laravel,git,mysql,mongodb" />
+</a>
+
+
+  
+### 📚 Currently studying
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind" />
+</a>
+
+
+
+### 📊 Github Stats
+
+<div>
+  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=juli32bit&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues">
+  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juli32bit&theme=tokyonight&hide_progress=true&show_icons=true">
+</div>

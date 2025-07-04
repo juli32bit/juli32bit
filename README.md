@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">I'm becoming a FullStack Developer and currently studying Systems Analysis and Development and I'm a software engineer intern at <strong>Conselho Federal de Administração, engaging with <strong>PHP, Laravel Projects evolving back-end and front-end development.</strong></p> check my <strong><a href="https://juli32bit.netlify.app/">Terminal Portfolio</a></strong>
+<p align="left">I'm becoming a FullStack Developer and currently studying Systems Analysis and Development and I'm a software engineer intern at <strong>Conselho Federal de Administração, engaging with <strong>PHP, Laravel Projects evolving back-end and front-end development.</strong></p> check my <strong><a href="https://juli32bit.netlify.app/">Terminal Portfolio</a></strong>. </p>  The latest project I've participated where I work: <strong><a href="https://transparenciateste.cfa.org.br">Transparencia CFA</a></strong>.
 
 
 ### 🛠️ Languages and Technologies

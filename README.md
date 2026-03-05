@@ -11,11 +11,3 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,python,docker,linux,js,php,git,grafana"/>
 </a>
-
-
-
-### 📊 Github Stats
-
-<div>
-  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=juli32bit&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues">
-</div>

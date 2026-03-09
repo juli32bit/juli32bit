@@ -3,7 +3,7 @@
 
 <img src="https://i.imgur.com/EX70tvb.gif" max-width="400px" width="400px" align="right">
 
-<p align="left">I was a <strong>fullstack development intern<strong>, but currently I am an<strong> intern of information security<strong>, studying to work with SOC. at <strong>Conselho Federal de Administração, I am familiar with <strong> Docker, Linux, Python, PHP, Laravel Projects evolving back-end and front-end development.</strong></p> check my <strong><a href="https://juli32bit.netlify.app/">Terminal Portfolio</a></strong>.
+<p align="left">I was a <strong>fullstack development intern<strong>, but currently I am an<strong> Cybersecurity Intern<strong>, working with vulnerability assessments and doing network hardening. at <strong>Conselho Federal de Administração, I am familiar with <strong> Docker, Linux, Python, PHP, Laravel Projects evolving back-end and front-end development.</strong></p> check my <strong><a href="https://juli32bit.netlify.app/">Terminal Portfolio</a></strong>.
 
 
 ### 🛠️ Languages and Technologies
